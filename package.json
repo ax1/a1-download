@@ -1,0 +1,24 @@
+{
+  "name": "a1-download",
+  "version": "1.0.0",
+  "description": "Get a web page and save to disk (with minimal dependencies)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "download",
+    "scrape",
+    "spider",
+    "crawl",
+    "html"
+  ],
+  "author": "ax1",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.0"
+  }
+}
