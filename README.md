@@ -1,13 +1,15 @@
-# a1-download
+# a1-util-web
 
-Get a web page and save into a folder
+Get a web page and save into a folder.
+
+> This package could implement more web-related functions in the future. For generic utils, use the `a1-util` instead.
 
 ## Usage
 
 > Typescript is also available
 
 ```javascript
-const {download} = require('a1-download')
+const {download} = require('a1-util-web')
 
 download('https://google.com')
 .catch(err=>console.error(err))
