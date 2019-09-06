@@ -1,7 +1,7 @@
 {
-  "name": "a1-download",
+  "name": "a1-util-web",
   "version": "1.0.0",
-  "description": "Get a web page and save to disk (with minimal dependencies)",
+  "description": "Utils for web resources. Get a web page and save to disk (with minimal dependencies)",
   "main": "index.js",
   "scripts": {
     "test": "node test/index"
@@ -11,7 +11,8 @@
     "scrape",
     "spider",
     "crawl",
-    "html"
+    "html",
+    "web"
   ],
   "author": "ax1",
   "license": "MIT",
