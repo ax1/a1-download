@@ -4,7 +4,7 @@
   "description": "Utils for web resources. Get a web page and save to disk (with minimal dependencies)",
   "main": "index.js",
   "scripts": {
-    "test": "node test/index"
+    "test": "node test/test"
   },
   "keywords": [
     "download",
