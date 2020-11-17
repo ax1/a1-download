@@ -1,6 +1,6 @@
 {
   "name": "a1-util-web",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utils for web resources. Get a web page and save to disk (with minimal dependencies)",
   "main": "index.js",
   "scripts": {
